@@ -86,6 +86,7 @@ ShopLefi is a full-stack eCommerce web application built with the MERN (MongoDB,
     -cd frontend  
     -npm run dev 
 
+---
 
 ## Folder Structure 🗂️
 
@@ -113,12 +114,17 @@ ShopLefi is a full-stack eCommerce web application built with the MERN (MongoDB,
 -├── public/  
 -└── vite.config.js  
 
+---
 
 ## Contributing ✨
 -Contributions are welcome! Feel free to submit a Pull Request or open an Issue for feedback or suggestions.
 
+---
+
 ## License 📄
 -This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
 
 ## Acknowledgments 🙏
 -React
